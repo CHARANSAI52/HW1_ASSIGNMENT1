@@ -17,7 +17,7 @@ This project contains solutions for:
 
 ## Project Structure
 ```text
-ml_neural_network_assignment/
+HW1_ASSIGNMENT1/
 ├── assignment.py
 ├── requirements.txt
 ├── README.md
